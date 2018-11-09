@@ -37,8 +37,8 @@ h1 {
 #profilePicture {
     width: 100%;
 }
-.quote {
 
+.quote {
     font-family: 'Roboto', sans-serif;
     font-style: italic;
     color: #9ea1a1;
@@ -62,4 +62,9 @@ i {
 
 .pinkText {
     color:  #b65b7e
+}
+
+.myWork {
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
 }
