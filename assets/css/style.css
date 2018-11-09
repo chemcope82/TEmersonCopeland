@@ -31,7 +31,7 @@ h1 {
     color: #9ea1a1;
     font-family: 'Roboto', 'sans-serif';
     line-height: 1.5em;
-    font-size: 18px;
+    font-size: 20px;
 }
 
 #profilePicture {
@@ -58,4 +58,8 @@ footer {
 i {
     color: #9ea1a1;
     padding: 10px;
+}
+
+.pinkText {
+    color:  #b65b7e
 }
