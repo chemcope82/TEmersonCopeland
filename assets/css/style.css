@@ -1,0 +1,61 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url(../images/burried_@2X.png);
+    background-size: auto;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.brand {
+    font-family: 'Neuton', serif;
+    font-weight: 900;
+    color: #3b4949;
+    text-align: center;
+    font-style: italic;
+    /* text-shadow:
+		-1px -1px 0 #fff,
+		1px -1px 0 #fff,
+		-1px 1px 0 #fff,
+		1px 1px 0 #fff; */
+}
+
+h1 {
+    font-size: 86px;
+}
+
+#aboutMe {
+    padding-top: 30px;
+    color: #9ea1a1;
+    font-family: 'Roboto', 'sans-serif';
+    line-height: 1.5em;
+    font-size: 18px;
+}
+
+#profilePicture {
+    width: 100%;
+}
+.quote {
+
+    font-family: 'Roboto', sans-serif;
+    font-style: italic;
+    color: #9ea1a1;
+    text-align: center;
+    padding-top: 30px;
+    border-bottom: #9ea1a1 solid 3px;
+    padding-bottom: 30px;
+    width: 100%;
+}
+
+footer {
+    text-align: center;
+    color: #9ea1a1;
+    border-top: #9ea1a1 solid 3px;
+}
+
+i {
+    color: #9ea1a1;
+    padding: 10px;
+}
