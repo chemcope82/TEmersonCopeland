@@ -32,6 +32,8 @@ h1 {
     font-family: 'Roboto', 'sans-serif';
     line-height: 1.5em;
     font-size: 20px;
+    border-bottom: #9ea1a1 solid 3px;
+    width: 100%;
 }
 
 #profilePicture {
@@ -67,4 +69,12 @@ i {
 .myWork {
     font-family: 'Roboto', sans-serif;
     font-weight: bold;
+}
+
+.parallax-container {
+    height: 650px;
+}
+
+.carousel {
+    height: 450px;
 }
